@@ -2,6 +2,6 @@
 Repo to keep track of current progress
 
 ## - Programming:
-  ### - Structure and Interpretation of Computer Programming
-        #### - Currently studying:
-              ##### - Chapter 1.1
+ ### - Structure and Interpretation of Computer Programming
+  #### - Currently studying:
+   ##### - Chapter 1.1
